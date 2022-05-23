@@ -1,0 +1,54 @@
+
+/* Font Include */
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@600&display=swap');
+
+
+.container_section {
+    background-image: url('./img/LogoSaham1.jpg') ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size : 100% ;
+    min-height: 100vh;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.section-1{
+    border-radius: 10px 10px 10px 10px;
+    padding: 100px;
+    margin-top: 40px;
+    margin-left: 35%;
+    margin-right: 20%;
+    background-color: #1f385a;
+    width: 400px;
+}
+
+.section-1-row1{
+    font-family: Poppins-Medium;
+    font-size: 30px;
+    color: #fddf4f;
+    line-height: 1.2;
+    text-align: center;
+    display: block;
+    margin-bottom: -70px;
+}
+
+.sec1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+.list-group-item{
+    margin: 10px;
+    border-radius: 0px 0px 5px 5px;
+}
+ul {
+    list-style-type: none;
+    background-position: 1px;
+}
+
+.btn{
+    margin-top: 10px;
+}

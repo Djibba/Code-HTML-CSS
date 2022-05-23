@@ -1,0 +1,165 @@
+.global_div{
+    margin-left: 10px;
+}
+/* assuré colonne 1 */
+.assfr{
+    font-size: 9px;
+}
+.asseng{
+    margin-top: -9px;
+    font-size: 8px;
+    font-style: italic;
+}
+.nom{
+    margin-top: -10px;
+    font-size: 10px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+hr{
+    margin-right: 1150px;
+}
+.hr1{
+    margin-top: -10px;
+}
+
+/* police colonne 1 */
+.police{
+    margin-top: -5px;
+}
+.polfr{
+    font-size: 9px;
+}
+.poleng{
+    margin-top: -9px;
+    font-size: 8px;
+    font-style: italic;
+}
+.numpol{
+    margin-top: -29px;
+    font-size: 10px;
+    font-weight: bold;
+    margin-left: 90px;
+}
+.hrpol{
+    margin-left: 45px;
+    margin-top: -10px;
+}
+
+/* date colonne 1 */
+.du1{
+    font-size: 9px;
+}
+.effet1{
+    margin-top: -21px;
+    font-size: 10px;
+    font-weight: bold;
+    margin-left: 60px;
+}
+
+.from1{
+    margin-top: -22.5px;
+    font-size: 8px;
+    font-style: italic;
+}
+.hrdate1{
+    margin-left: 13px;
+    margin-top: -11px;
+}
+.au1{
+    font-size: 9px;
+}
+.from1{
+    margin-top: -9px;
+    font-size: 8px;
+    font-style: italic;
+}
+.au1{
+    font-size: 9px;
+    margin-top: -9px;
+}
+.echeance1{
+    margin-top: -20px;
+    font-size: 10px;
+    font-weight: bold;
+    margin-left: 60px;
+}
+.hrdate2{
+    margin-left: 13px;
+    margin-top: -11px;
+}
+.to1{
+    margin-top: -10px;
+    font-size: 8px;
+    font-style: italic;
+}
+
+/* vehicule colonne 1 */
+.vehicule1{
+    margin-top: -9px;
+}
+.veh1{
+    font-size: 9px;
+}
+.marque1{
+    font-size: 9px;
+    margin-left: 100px;
+    margin-top: -21px;
+    font-weight: bold;
+}
+.hrmark{
+    margin-left: 82px;
+    margin-top: -11px;
+}
+.veh1eng{
+    margin-top: -8px;
+    font-size: 8px;
+    font-style: italic;
+}
+.immat1{
+    font-size: 9px;
+    margin-top: -9.5px;
+}
+.reg1{
+    margin-top: -11px;
+    font-size: 8px;
+    font-style: italic;
+}
+.numimmat1{
+    font-size: 9px;
+    margin-left: 50px;
+    font-weight: bold;
+    margin-top: -9px;
+}
+.hrimmat1{
+    margin-top: -10px;
+}
+ /* genre colonne 1 */
+ .genfr1{
+     font-size: 9px;
+     margin-top: -3px;
+ }
+ .type1{
+    font-size: 8px;
+    margin-top: -11px;
+    font-style: italic;
+ }
+ .hrgenre1{
+     margin-left: 32px;
+     margin-top: -17px;
+ }
+ .cat1{
+     font-size: 9px;
+     margin-top: -2px;
+ }
+ .use1{
+     font-size: 8px;
+     margin-top: -11px;
+     font-style: italic;
+ }
+ .catval1{
+    font-size: 9px;
+    margin-left: 70px;
+    font-weight: bold;
+    margin-top: -11px;
+ }
